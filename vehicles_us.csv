@@ -1,0 +1,4 @@
+price,year,manufacturer,model,condition,cylinders,fuel,odometer,title_status,transmission,drive,size,type,paint_color,state,posting_date
+5000,2012,ford,focus,good,4,gas,120000,clean,automatic,fwd,compact,sedan,blue,ca,2023-01-01
+7000,2015,toyota,corolla,excellent,4,gas,80000,clean,automatic,fwd,compact,sedan,black,ny,2023-02-15
+12000,2018,honda,civic,like new,4,gas,50000,clean,automatic,fwd,compact,sedan,white,tx,2023-03-10
